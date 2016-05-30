@@ -1,4 +1,4 @@
 # NAT
 Mine and Noah's game
 
-##### A Javascript based platformer coming your way!
+##### A Javascript/EaselJS based platformer coming your way!
