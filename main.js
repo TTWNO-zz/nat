@@ -7,7 +7,7 @@ window.onload = function(){
     var cont = 0;
 
     console.log("Ready for action!");
-    document.getElementById('main').innerHTML = "Ready for action!";
+//    document.getElementById('main').innerHTML = "Ready for action!";
     var game = new Phaser.Game(width, height, Phaser.CANVAS, '', {preload: preload, create: create, update: update});
 
 
